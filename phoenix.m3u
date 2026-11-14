@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="亚太",凤凰资讯
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="亚太",凤凰资讯
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="亚太",凤凰资讯
+http://173.208.234.146/live/fhzx.m3u8?zbj
+#EXTINF:-1 group-title="亚太",凤凰资讯
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58601.m3u8
+#EXTINF:-1 group-title="纪实",WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="纪实",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="纪实",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 group-title="生活时尚",FashionTV FR
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
